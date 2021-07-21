@@ -1,0 +1,45 @@
+{
+  "LabNo": "3",
+  "PName": "Joyneel Acarya",
+  "Gender": "Male",
+  "Age": "30 Y 2 M 21 D ",
+  "ReferredBy": "Active Medications",
+  "results": [
+    {
+      "Apperance": "Tablets",
+      "investigation": [
+        {
+          "Test Name": "ibuprofen 600mg tab",
+          "REASON FOR MEDICATION": "For treatment of lower bac",
+          "DIRECTIONS / NOTES": "4 times a day with food every 4 hours(8,12,4,8)",
+          "POSSIBLE SIDE EFFECTS": "Headache,Dizziness",
+          "GET MEDICAL HELP IF": "Experiencing chest pain,shortness of breath,and rapid weight gain",
+        }
+    ]
+},
+ {
+      "Apperance": "insulin",
+      "investigation": [
+        {
+          "Test Name": "insulin, glargine, human 100 unt/ml inj",
+          "REASON FOR MEDICATION": "Reduce blood pressure",
+          "DIRECTIONS / NOTES": "1 Inject 10 ml vial under the skin as directed for 28 days inject 25 units under the skin at bedtime do not mix with other insulins/discard open vials after 28 days",
+          "POSSIBLE SIDE EFFECTS": "Headache,Fatigue,Nausea",
+          "GET MEDICAL HELP IF": "Experiencing itching skin,wheezing, and fast heart rate",
+        }
+    ]
+},
+ {
+      "Apperance": "capsule",
+      "investigation": [
+        {
+          "Test Name": "terazosin hcl 2mg capsule",
+          "REASON FOR MEDICATION": "For treatment of symptoms of an enlarged prostate",
+          "DIRECTIONS / NOTES": "3 capsules before bed",
+          "POSSIBLE SIDE EFFECTS": "Dizziness,Headache,Constipation,Loss of appetite,Fatigue",
+          "GET MEDICAL HELP IF": "",
+        }
+    ]
+}
+ ]
+}
